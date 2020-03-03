@@ -10,6 +10,7 @@ This is a project about OutWrite magazine website blah blah blah...
 what is the issue and why do you think it is important to resolve that issue by your project? 
 
 ## Competitor analysis (assignment 01 & 02) 
+blahblahblah https://github.com/naominzd/Heuristic-Evaluation-DH-150/tree/master/assignment1
 
 website01 | website02
 -----------|----------
