@@ -1,4 +1,4 @@
-# 1
+# OutWrite Renovation!
 
 # OutWrite Magazine
 ## DH150 UX Design
