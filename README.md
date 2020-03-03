@@ -1,9 +1,8 @@
-# OutWrite Renovation!
+# OutWrite Renovation 
 
-# OutWrite Magazine
 ## DH150 UX Design
 
-## What is OutWrite Magazine? 
+## What is OutWrite? 
 This is a project about OutWrite magazine website blah blah blah...
 
 ## Design Statement
